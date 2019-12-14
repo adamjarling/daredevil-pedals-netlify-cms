@@ -57,6 +57,19 @@ collections:
                   { label: Description, name: description, widget: text },
                 ],
             }
+      - file: "src/pages/bio/index.md"
+        label: "Bio Page"
+        name: "bio"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "bio-page",
+            }
+          - { label: Title, name: title, widget: string }
+          - { label: Image, name: image, widget: image }
+          - { label: "Body", name: "body", widget: "markdown" }
 
           # - {
           #     label: Intro,

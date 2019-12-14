@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import footerLogo from "../img/daredevil-pedals-footer.png";
+import reverb from "../img/logo-reverb.png";
 import logo from "../img/logo.svg";
 import facebook from "../img/social/facebook.svg";
 import instagram from "../img/social/instagram.svg";
@@ -54,7 +55,7 @@ const Footer = () => {
                 <i className="instagram icon"></i>
               </a>
               <a href="https://reverb.com/shop/daredevil-pedals-chicago">
-                <img src="http://daredevilpedals.com/wp-content/themes/daredevil_custom/images/logo-reverb.png" />
+                <img src={reverb} alt="Reverb logo" />
               </a>
             </div>
 
