@@ -3,21 +3,32 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import MarkdownContent from "../components/MarkdownContent";
 
-export const DealersPageTemplate = ({ title, content, contentComponent }) => {
+export const DealersPageTemplate = ({
+  title,
+  international,
+  domestic,
+  content,
+  contentComponent
+}) => {
   const PageContent = contentComponent || Content;
 
   return (
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                {title}
-              </h2>
-              <PageContent className="content" content={content} />
-            </div>
+    <section className="primary-content">
+      <h1>{title}</h1>
+      <PageContent className="content" content={content} />
+      <div className="ui two column grid" style={{ paddingTop: "5rem" }}>
+        <div className="column">
+          <h2>Domestic</h2>
+          <div className="ui raised segment">
+            <MarkdownContent content={domestic.content} />
+          </div>
+        </div>
+        <div className="column">
+          <h2>International</h2>
+          <div className="ui raised segment">
+            <MarkdownContent content={international.content} />
           </div>
         </div>
       </div>
@@ -39,6 +50,8 @@ const DealersPage = ({ data }) => {
       <DealersPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
+        international={post.frontmatter.international}
+        domestic={post.frontmatter.domestic}
         content={post.html}
       />
     </Layout>
@@ -57,6 +70,12 @@ export const DealersPageQuery = graphql`
       html
       frontmatter {
         title
+        international {
+          content
+        }
+        domestic {
+          content
+        }
       }
     }
   }

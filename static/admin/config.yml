@@ -81,19 +81,19 @@ collections:
               default: "dealers-page",
             }
           - { label: Title, name: title, widget: string }
-          - {
-              label: International Dealers,
-              name: international,
-              widget: object,
-              fields: [{ label: Body, name: body, widget: markdown }],
-            }
+          - { label: Body, name: body, widget: markdown }
           - {
               label: Domestic Dealers,
               name: domestic,
               widget: object,
-              fields: [{ label: Body, name: body, widget: markdown }],
+              fields: [{ label: Content, name: content, widget: markdown }],
             }
-          - { label: Body, name: body, widget: markdown }
+          - {
+              label: International Dealers,
+              name: international,
+              widget: object,
+              fields: [{ label: Content, name: content, widget: markdown }],
+            }
 
           # - {
           #     label: Intro,

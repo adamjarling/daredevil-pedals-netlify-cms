@@ -29,7 +29,10 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-helmet": "^5.2.0",
+    "remark": "^11.0.2",
+    "remark-html": "^10.0.0",
     "semantic-ui-css": "^2.4.1",
+    "showdown": "^1.9.1",
     "uuid": "^3.2.1"
   },
   "keywords": [
