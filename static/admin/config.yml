@@ -70,6 +70,30 @@ collections:
           - { label: Title, name: title, widget: string }
           - { label: Image, name: image, widget: image }
           - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/dealers/index.md"
+        label: "Dealers Page"
+        name: "dealers"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "dealers-page",
+            }
+          - { label: Title, name: title, widget: string }
+          - {
+              label: International Dealers,
+              name: international,
+              widget: object,
+              fields: [{ label: Body, name: body, widget: markdown }],
+            }
+          - {
+              label: Domestic Dealers,
+              name: domestic,
+              widget: object,
+              fields: [{ label: Body, name: body, widget: markdown }],
+            }
+          - { label: Body, name: body, widget: markdown }
 
           # - {
           #     label: Intro,

@@ -14,8 +14,8 @@ export const IndexPageTemplate = ({ title, videoUrl, mainpitch }) => (
           <iframe
             width="853"
             height="480"
-            frameborder="0"
-            allowfullscreen=""
+            frameBorder="0"
+            allowFullScreen=""
             src={videoUrl}
           ></iframe>
         </div>

@@ -81,7 +81,7 @@ const Footer = () => {
               >
                 <div id="mc_embed_signup_scroll">
                   <div className="mc-field-group">
-                    <label for="mce-EMAIL">Email Address </label>
+                    <label htmlFor="mce-EMAIL">Email Address </label>
                     <input
                       type="email"
                       value=""
@@ -91,7 +91,7 @@ const Footer = () => {
                     />
                   </div>
                   <div className="mc-field-group">
-                    <label for="mce-FNAME">First Name </label>
+                    <label htmlFor="mce-FNAME">First Name </label>
                     <input
                       type="text"
                       value=""
@@ -101,7 +101,7 @@ const Footer = () => {
                     />
                   </div>
                   <div className="mc-field-group">
-                    <label for="mce-LNAME">Last Name </label>
+                    <label htmlFor="mce-LNAME">Last Name </label>
                     <input
                       type="text"
                       value=""
@@ -129,7 +129,7 @@ const Footer = () => {
                     <input
                       type="text"
                       name="b_60da2c5d20db397b405a9ba49_ae9aa05f95"
-                      tabindex="-1"
+                      tabIndex="-1"
                       value=""
                     />
                   </div>
