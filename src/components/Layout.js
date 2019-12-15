@@ -3,6 +3,7 @@ import { Helmet } from "react-helmet";
 import Footer from "../components/Footer";
 import "semantic-ui-css/semantic.css";
 import "../styles/style.css";
+import "../styles/daredevil-styles.scss";
 import useSiteMetadata from "./SiteMetadata";
 import { withPrefix } from "gatsby";
 import Header from "./Header";
