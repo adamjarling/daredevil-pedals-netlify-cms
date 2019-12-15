@@ -2,104 +2,202 @@
 templateKey: dealers-page
 title: Dealers
 domestic:
-  content: |-
+  content: >-
     ### AMP SHOP / BASS EXCHANGE HOLLYWOOD
+
+
     4870 Lankershim Blvd.
+
     North Hollywood, CA 91601
+
     818-386-5500
-    http://www.bassexchange.com/
+
+    <http://www.bassexchange.com/>
+
 
     ### ALL MUSIC
+
+
     397 S. OYSTER BAY RD
+
     PLAINVIEW, NY 11803
+
     (516) 433-6969
-    www.allmusicinc.com
+
+    [www.allmusicinc.com](http://www.allmusicinc.com)
+
 
     ### GEARTREE / FIREHOUSE GUITARS
+
+
     Firehouse Guitars / Geartree.com
+
     2225 Pine Ridge Dr.
+
     Jenison, MI 49428
+
     Phone 616 662 8160 x222
-    https://www.geartree.com/
+
+    <https://www.geartree.com/>
+
 
     ### CHICAGO MUSIC EXCHANGE
+
+
     3316 N. Lincoln Ave.
+
     Chicago IL 60657
+
     Phone: 773.525.7773
+
     Email: info@chicagomusicexchange.com
-    chicagomusicexchange.com/collections/daredevil/effects
+
+    [chicagomusicexchange.com/collections/daredevil/effects](http://chicagomusicexchange.com/collections/daredevil/effects)
+
 
     ### BIG HOUSE GUITARS
+
+
     2649 N. Decatur Rd
+
     Decatur, GA 30033
+
     (404) 254-0190
+
     www.bighouseguitars.com
+
     bighouseguitars@gmail.com
 
+
     ### TOMMY’S GUITARS
+
+
     2548 W. Chicago Ave
+
     Chicago, IL 60622
+
     773.486.6768
+
     http://www.tommysguitars.com/
 
+
     ### ROCK N ROLL VINTAGE
+
+
     4727 N Damen Ave, Chicago, IL 60625
+
     ROCKNROLLVINTAGE.COM
+
     (773) 878-8616
 
+
     ### 30TH STREET GUITARS
+
+
     234 W 27th St
+
     New York, NY
+
     (212) 868-2660
+
     HTTP://WWW.30THSTREETGUITARS.COM
 
+
     ### RUDY’S MUSIC
+
+
     461 Broome St.
+
     NY, NY 10013
+
     212.625.2557
+
     www.RUDYSMUSIC.com
 
+
     ### VISION GUITAR
+
+
     http://visionguitar.com
+
     6300 San Ignacio Ave f,
+
     San Jose, CA 95119
+
     (888) 885-0710
 
+
     ### MUSICIAN’S FRIEND
+
+
     Musician’s Friend
+
     https://www.musiciansfriend.com/
+
     (800) 449-9128
 
+
     ### B’S MUSIC SHOP
+
+
     613 MISSION ST.
+
     Mount Pleasant , MI
+
     (989) 773-0777
+
     bsmusicshop.com
 
+
     ### GUITAR CENTER
+
+
     Guitar Center
+
     https://www.guitarcenter.com/
+
     (866) 498-7882
 
+
     ### COAST SONIC PEDAL PROVIDERS
+
+
     Encinitas, CA
+
     HTTP://COASTSONIC.COM/
 
+
     ### SAM ASH – NORTH CHICAGO
+
+
     Sam Ash Buffalo Grove store #18
+
     1305 West Dundee Rd
+
     Plaza Verde Shopping Center
+
     Buffalo Grove, IL 60089
+
     847-253-3151
 
+
     ### SAM ASH NEW YORK
+
+
     333 W 34th S
+
     New York, NY 10001
+
     (212) 719-2299
 
+
     ### SAM ASH INDIANAPOLIS
+
+
     8284 Center Run Dr
+
     Indianapolis, IN 46250
+
     800.472.6274
 international:
   content: |-
