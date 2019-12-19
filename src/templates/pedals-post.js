@@ -1,8 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { kebabCase } from "lodash";
 import Helmet from "react-helmet";
-import { graphql, Link } from "gatsby";
+import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 import Img from "gatsby-image";
@@ -22,44 +21,44 @@ export const PedalsPostTemplate = ({
   const PostContent = contentComponent || Content;
 
   return (
-    <section class="primary-content">
-      <div class="ui basic clearing segment">
+    <section className="primary-content">
+      <div className="ui basic clearing segment">
         <h1>{title}</h1>
         <Img
           className="ui big right floated image"
           fluid={pedalimage.childImageSharp.fluid}
         />
         <PostContent content={content} />
-        <h2 class="ui header">
+        <h2 className="ui header">
           Price: <br />
           <i>{price}</i>
         </h2>
 
-        <div class="paypal-embed-wrapper">
+        <div className="paypal-embed-wrapper">
           <HTMLContent content={payPal} />
         </div>
 
-        <div class="share-wrapper">
-          <div class="shareThisWrapper gradient">
+        <div className="share-wrapper">
+          <div className="shareThisWrapper gradient">
             <span>Share This:</span>
             <a href="" target="_blank">
-              <i class="twitter square icon"></i>
+              <i className="twitter square icon"></i>
             </a>
             <a href="" target="_blank">
-              <i class="facebook square icon"></i>
+              <i className="facebook square icon"></i>
             </a>
             <a href="" target="_blank">
-              <i class="google icon"></i>
+              <i className="google icon"></i>
             </a>
           </div>
-          <img class="squigly" />
+          <img className="squigly" />
         </div>
       </div>
 
-      <div class="ui basic segment">
-        <div class="pedal-video-wrapper cent">
-          {media.map(item => (
-            <HTMLContent content={item.mediaItem} />
+      <div className="ui basic segment">
+        <div className="pedal-video-wrapper cent">
+          {media.map((item, i) => (
+            <HTMLContent key={i} content={item.mediaItem} />
             // Note: These classes added to above element will make videos
             // 100% width: "pedal-video embed-container"
           ))}

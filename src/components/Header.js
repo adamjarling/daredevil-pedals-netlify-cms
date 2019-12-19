@@ -12,7 +12,6 @@ const Header = () => {
             <img src={logo} alt="Daredevil Pedals logo" />
           </Link>
         </div>
-
         <NavbarNew />
       </header>
     </section>

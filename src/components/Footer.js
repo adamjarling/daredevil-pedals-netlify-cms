@@ -2,11 +2,6 @@ import React from "react";
 import { Link } from "gatsby";
 import footerLogo from "../img/daredevil-pedals-footer.png";
 import reverb from "../img/logo-reverb.png";
-import logo from "../img/logo.svg";
-import facebook from "../img/social/facebook.svg";
-import instagram from "../img/social/instagram.svg";
-import twitter from "../img/social/twitter.svg";
-import vimeo from "../img/social/vimeo.svg";
 
 const Footer = () => {
   return (
@@ -84,7 +79,7 @@ const Footer = () => {
                     <label htmlFor="mce-EMAIL">Email Address </label>
                     <input
                       type="email"
-                      value=""
+                      //value=""
                       name="EMAIL"
                       className="required email"
                       id="mce-EMAIL"
@@ -94,7 +89,7 @@ const Footer = () => {
                     <label htmlFor="mce-FNAME">First Name </label>
                     <input
                       type="text"
-                      value=""
+                      //value=""
                       name="FNAME"
                       className=""
                       id="mce-FNAME"
@@ -104,7 +99,7 @@ const Footer = () => {
                     <label htmlFor="mce-LNAME">Last Name </label>
                     <input
                       type="text"
-                      value=""
+                      //value=""
                       name="LNAME"
                       className=""
                       id="mce-LNAME"
@@ -130,7 +125,7 @@ const Footer = () => {
                       type="text"
                       name="b_60da2c5d20db397b405a9ba49_ae9aa05f95"
                       tabIndex="-1"
-                      value=""
+                      //value=""
                     />
                   </div>
                   <div className="clear">

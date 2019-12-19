@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { graphql, Link } from "gatsby";
+import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 import Img from "gatsby-image";
@@ -22,14 +22,14 @@ export const PressPageTemplate = ({
           items.map(item => (
             <div className="card">
               <div className="image">
-                <a href={item.url} target="_blank">
+                <a href={item.url} target="_blank" rel="noopener noreferrer">
                   <Img fluid={item.image.childImageSharp.fluid} />
                 </a>
               </div>
               <div className="content">
                 <div className="header">{item.publication}</div>
                 <div className="meta">
-                  <a href={item.url} target="_blank">
+                  <a href={item.url} target="_blank" rel="noopener noreferrer">
                     {item.url}
                   </a>
                 </div>
