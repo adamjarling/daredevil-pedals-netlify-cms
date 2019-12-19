@@ -32,6 +32,33 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
 
+  - name: "pedals"
+    label: "Pedals"
+    folder: "src/pages/pedals"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "pedals-post",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      # - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Price", name: "price", widget: "string" }
+      - { label: "PayPal Embed Code", name: "payPal", widget: "text" }
+      - { label: "Pedal Image", name: "pedalimage", widget: image }
+      - {
+          label: "Media",
+          name: "media",
+          widget: object,
+          fields: [{ label: Media Item, name: mediaItem, widget: text }],
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
+
   - name: "pages"
     label: "Pages"
     files:

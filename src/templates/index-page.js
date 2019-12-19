@@ -5,6 +5,7 @@ import { Link, graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
+import PedalsRoll from "../components/PedalsRoll";
 
 export const IndexPageTemplate = ({ title, videoUrl, mainpitch }) => (
   <section className="primary-content">
@@ -31,6 +32,7 @@ export const IndexPageTemplate = ({ title, videoUrl, mainpitch }) => (
         </div>
       </div>
     </div>
+    <PedalsRoll />
   </section>
   // <div>
   //   <div
