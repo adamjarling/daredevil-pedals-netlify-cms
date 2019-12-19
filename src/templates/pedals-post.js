@@ -35,7 +35,9 @@ export const PedalsPostTemplate = ({
           <i>{price}</i>
         </h2>
 
-        <div class="paypal-embed-wrapper">{payPal}</div>
+        <div class="paypal-embed-wrapper">
+          <HTMLContent content={payPal} />
+        </div>
 
         <div class="share-wrapper">
           <div class="shareThisWrapper gradient">
@@ -55,15 +57,13 @@ export const PedalsPostTemplate = ({
       </div>
 
       <div class="ui basic segment">
-        <div class="pedal-video-wrapper">
+        <div class="pedal-video-wrapper cent">
           {media.map(item => (
-            <div class="pedal-video embed-container">{item.mediaItem}</div>
+            <HTMLContent content={item.mediaItem} />
+            // Note: These classes added to above element will make videos
+            // 100% width: "pedal-video embed-container"
           ))}
         </div>
-      </div>
-
-      <div class="ui basic segment">
-        <div class="pedal-video-wrapper"></div>
       </div>
     </section>
     // <section className="section">

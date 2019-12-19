@@ -8,9 +8,9 @@ const Header = () => {
     <section>
       <header>
         <div className="logo-wrapper">
-          <a href="http://daredevilpedals.com">
+          <Link to="/">
             <img src={logo} alt="Daredevil Pedals logo" />
-          </a>
+          </Link>
         </div>
 
         <NavbarNew />
