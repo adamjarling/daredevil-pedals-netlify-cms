@@ -26,5 +26,17 @@ items:
     text: Tyler Bryant – Tyler Bryant & the Shakedown
     title: Tyler Bryant – Tyler Bryant & the Shakedown
     url: 'http://www.tylerbryantandtheshakedown.com/'
+  - image: /img/evicted.jpg
+    text: 'theevictions.com '
+    title: the EVICTIONS
+    url: 'theevictions.com '
+  - image: /img/jeffmatz1.jpg
+    text: 'http://www.highonfire.net'
+    title: Jeff Matz – High On Fire
+    url: 'http://www.highonfire.net'
+  - image: /img/torche1.jpg
+    text: 'http://www.torchemusic.com'
+    title: Torche
+    url: 'http://www.torchemusic.com'
 ---
 Something here
