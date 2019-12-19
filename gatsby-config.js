@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Daredevil Pedals",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution."
+      "From vintage to modern, we can make it happen. All pedals are hand built true bypass, with high quality components, and come with 9V external DC jacks. Get the tone you’ve been searchin for from Daredevil."
   },
   plugins: [
     "gatsby-plugin-react-helmet",
