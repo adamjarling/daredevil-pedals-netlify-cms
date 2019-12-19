@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql, StaticQuery } from "gatsby";
-import PreviewCompatibleImage from "./PreviewCompatibleImage";
+import Img from "gatsby-image";
 
 class PedalsRoll extends React.Component {
   render() {
@@ -9,45 +9,27 @@ class PedalsRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
-      <div className="columns is-multiline">
+      <div className="ui three column center aligned stackable grid">
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="is-parent column is-6" key={post.id}>
-              <article
-                className={`blog-list-item tile is-child box notification`}
-              >
-                <header>
-                  {post.frontmatter.pedalimage ? (
-                    <div className="featured-thumbnail">
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.pedalimage,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`
-                        }}
-                      />
-                    </div>
-                  ) : null}
-                  <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.price}
-                    </span>
-                  </p>
-                </header>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
+            <div className="column" key={post.id}>
+              <article>
+                <div class="ui segment">
+                  <Link to={post.fields.slug} class="ui fluid image">
+                    <Img
+                      fluid={post.frontmatter.pedalimage.childImageSharp.fluid}
+                    />
                   </Link>
-                </p>
+                  <div class="pedal-details">
+                    <h3 class="ui header">{post.frontmatter.title}</h3>
+                    <p class="price">{post.frontmatter.price}</p>
+                    <p>
+                      <Link to={post.fields.slug} class="ui button">
+                        View Pedal
+                      </Link>
+                    </p>
+                  </div>
+                </div>
               </article>
             </div>
           ))}
