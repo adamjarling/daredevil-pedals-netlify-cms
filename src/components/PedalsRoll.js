@@ -14,17 +14,17 @@ class PedalsRoll extends React.Component {
           posts.map(({ node: post }) => (
             <div className="column" key={post.id}>
               <article>
-                <div class="ui segment">
-                  <Link to={post.fields.slug} class="ui fluid image">
+                <div className="ui segment">
+                  <Link to={post.fields.slug} className="ui fluid image">
                     <Img
                       fluid={post.frontmatter.pedalimage.childImageSharp.fluid}
                     />
                   </Link>
-                  <div class="pedal-details">
-                    <h3 class="ui header">{post.frontmatter.title}</h3>
-                    <p class="price">{post.frontmatter.price}</p>
+                  <div className="pedal-details">
+                    <h3 className="ui header">{post.frontmatter.title}</h3>
+                    <p className="price">{post.frontmatter.price}</p>
                     <p>
-                      <Link to={post.fields.slug} class="ui button">
+                      <Link to={post.fields.slug} className="ui button">
                         View Pedal
                       </Link>
                     </p>

@@ -28,9 +28,14 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
-      - { label: "Featured Image", name: "featuredimage", widget: image }
+      - {
+          label: "Featured Image",
+          name: "featuredimage",
+          widget: "image",
+          required: false,
+        }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
 
   - name: "pedals"
     label: "Pedals"
@@ -49,7 +54,7 @@ collections:
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Price", name: "price", widget: "string" }
       - { label: "PayPal Embed Code", name: "payPal", widget: "text" }
-      - { label: "Pedal Image", name: "pedalimage", widget: image }
+      - { label: "Pedal Image", name: "pedalimage", widget: "image" }
       - {
           label: "Media",
           name: "media",
@@ -95,7 +100,7 @@ collections:
               default: "bio-page",
             }
           - { label: Title, name: title, widget: string }
-          - { label: Image, name: image, widget: image }
+          - { label: Image, name: image, widget: "image", required: false }
           - { label: "Body", name: "body", widget: "markdown" }
       - file: "src/pages/dealers/index.md"
         label: "Dealers Page"
@@ -140,7 +145,7 @@ collections:
               fields:
                 [
                   { label: Publication, name: publication, widget: string },
-                  { label: Image, name: image, widget: image },
+                  { label: Image, name: image, widget: "image" },
                   { label: Url, name: url, widget: string },
                   { label: Text, name: text, widget: text },
                 ],
@@ -164,7 +169,7 @@ collections:
               fields:
                 [
                   { label: Artist Name, name: title, widget: string },
-                  { label: Image, name: image, widget: image },
+                  { label: Image, name: image, widget: "image" },
                   { label: Url, name: url, widget: string },
                   { label: Text, name: text, widget: text },
                 ],
@@ -252,7 +257,7 @@ collections:
               default: "product-page",
             }
           - { label: Title, name: title, widget: string }
-          - { label: Image, name: image, widget: image }
+          - { label: Image, name: image, widget: "image" }
           - { label: Heading, name: heading, widget: string }
           - { label: Description, name: description, widget: string }
           - {
@@ -269,7 +274,7 @@ collections:
                     widget: list,
                     fields:
                       [
-                        { label: Image, name: image, widget: image },
+                        { label: Image, name: image, widget: "image" },
                         { label: Text, name: text, widget: text },
                       ],
                   },
@@ -289,7 +294,7 @@ collections:
                     widget: object,
                     fields:
                       [
-                        { label: Image, name: image, widget: image },
+                        { label: Image, name: image, widget: "image" },
                         { label: Alt, name: alt, widget: string },
                       ],
                   },
@@ -299,7 +304,7 @@ collections:
                     widget: object,
                     fields:
                       [
-                        { label: Image, name: image, widget: image },
+                        { label: Image, name: image, widget: "image" },
                         { label: Alt, name: alt, widget: string },
                       ],
                   },
