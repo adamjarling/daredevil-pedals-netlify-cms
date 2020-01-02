@@ -1,8 +1,7 @@
 ---
-templateKey: "bio-page"
-path: /bio
+templateKey: bio-page
 title: Bio
-image: /img/coffee.png
+image: /img/36460770_10162138737090206_1684909627201814528_o.jpg
 ---
 
 I play guitar in a band…..I need pedals. So that’s been the story for almost 15 years now. The genesis of Daredevil was touring, recording, and spending my last pennies on strings and more gear than I could fit in my apartment. After never owning or affording the cool effects I wanted, I decided to build a few things. This quickly turned into an obsession, like a non stop-all night long obsession of the 3rd kind. Other friends wanted my new pedals, one thing leads to another, here we are. Daredevil Pedals, 100% hand built in Chicago, IL since summer of 2012. I’m picky when it comes to gear and I’m not gonna make pedals I wouldn’t play through.
