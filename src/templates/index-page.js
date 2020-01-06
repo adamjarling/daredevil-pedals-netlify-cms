@@ -17,6 +17,7 @@ export const IndexPageTemplate = ({ title, youTubeId, mainpitch }) => (
             allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture"
             allowFullScreen
+            title="Daredevils homepage video"
           ></iframe>
         </div>
       </div>

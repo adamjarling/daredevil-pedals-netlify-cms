@@ -20,10 +20,10 @@ export const ArtistsPageTemplate = ({
       <div className="ui three column stackable equal width grid">
         {items.length > 0 &&
           items.map(item => (
-            <div className="column contact-block">
+            <div key={item.title} className="column contact-block">
               <h2>{item.title}</h2>
               <p>
-                <a href={item.url} target="_blank">
+                <a href={item.url} target="_blank" rel="noopener noreferrer">
                   {item.url}
                 </a>
               </p>

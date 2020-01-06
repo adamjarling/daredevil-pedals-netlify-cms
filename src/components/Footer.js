@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="ui three column stackable grid">
           <div className="large screen computer tablet only column">
             <Link to="/" className="ui image">
-              <img src={footerLogo} />
+              <img src={footerLogo} alt="Daredevil pedals logo" />
             </Link>
           </div>
           <div className="column">
