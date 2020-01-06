@@ -4,17 +4,19 @@ import { Link, graphql } from "gatsby";
 import Layout from "../components/Layout";
 import PedalsRoll from "../components/PedalsRoll";
 
-export const IndexPageTemplate = ({ title, videoUrl, mainpitch }) => (
+export const IndexPageTemplate = ({ title, youTubeId, mainpitch }) => (
   <section className="primary-content">
     <div className="ui two column stackable grid">
       <div className="ten wide column">
         <div className="embed-container">
           <iframe
-            width="853"
-            height="480"
+            width="560"
+            height="315"
+            src={`https://www.youtube.com/embed/${youTubeId}`}
             frameBorder="0"
-            allowFullScreen=""
-            src={videoUrl}
+            allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture"
+            allowFullScreen
           ></iframe>
         </div>
       </div>
@@ -36,7 +38,7 @@ export const IndexPageTemplate = ({ title, videoUrl, mainpitch }) => (
 IndexPageTemplate.propTypes = {
   title: PropTypes.string,
   mainpitch: PropTypes.object,
-  videoUrl: PropTypes.string
+  youTubeId: PropTypes.string
 };
 
 const IndexPage = ({ data }) => {
@@ -46,7 +48,7 @@ const IndexPage = ({ data }) => {
     <Layout>
       <IndexPageTemplate
         title={frontmatter.title}
-        videoUrl={frontmatter.videoUrl}
+        youTubeId={frontmatter.youTubeId}
         mainpitch={frontmatter.mainpitch}
       />
     </Layout>
@@ -68,7 +70,7 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
         title
-        videoUrl
+        youTubeId
         mainpitch {
           title
           description

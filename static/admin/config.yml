@@ -78,7 +78,7 @@ collections:
               default: "index-page",
             }
           - { label: Title, name: title, widget: string }
-          - { label: Video URL, name: videoUrl, widget: string }
+          - { label: YouTube Id, name: youTubeId, widget: string }
           - {
               label: Mainpitch,
               name: mainpitch,
