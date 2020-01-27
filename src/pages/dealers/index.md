@@ -6,9 +6,7 @@ domestic:
     ### AMP SHOP / BASS EXCHANGE HOLLYWOOD
 
 
-    4870 Lankershim Blvd.
-
-    North Hollywood, CA 91601
+    4870 Lankershim Blvd. North Hollywood, CA 91601
 
     818-386-5500
 
@@ -18,21 +16,25 @@ domestic:
     ### ALL MUSIC
 
 
-    397 S. OYSTER BAY RD
-
-    PLAINVIEW, NY 11803
+    397 S. OYSTER BAY RD PLAINVIEW, NY 11803
 
     (516) 433-6969
 
     [www.allmusicinc.com](http://www.allmusicinc.com)
 
 
+    ### PRYMAXE MUSIC
+
+
+    1-855-PRYMAXE (779-6293)\
+
+    **Email:** sales@prymaxe.com [www.prymaxe.com](https://www.prymaxe.com)
+
+
     ### GEARTREE / FIREHOUSE GUITARS
 
 
-    Firehouse Guitars / Geartree.com
-
-    2225 Pine Ridge Dr.
+    Firehouse Guitars / Geartree.com 2225 Pine Ridge Dr.
 
     Jenison, MI 49428
 
@@ -44,9 +46,7 @@ domestic:
     ### CHICAGO MUSIC EXCHANGE
 
 
-    3316 N. Lincoln Ave.
-
-    Chicago IL 60657
+    3316 N. Lincoln Ave. Chicago IL 60657
 
     Phone: 773.525.7773
 
@@ -58,9 +58,7 @@ domestic:
     ### BIG HOUSE GUITARS
 
 
-    2649 N. Decatur Rd
-
-    Decatur, GA 30033
+    2649 N. Decatur Rd Decatur, GA 30033
 
     (404) 254-0190
 
@@ -72,9 +70,7 @@ domestic:
     ### TOMMY’S GUITARS
 
 
-    2548 W. Chicago Ave
-
-    Chicago, IL 60622
+    2548 W. Chicago Ave Chicago, IL 60622
 
     773.486.6768
 
@@ -84,9 +80,7 @@ domestic:
     ### ROCK N ROLL VINTAGE
 
 
-    4727 N Damen Ave, Chicago, IL 60625
-
-    ROCKNROLLVINTAGE.COM
+    4727 N Damen Ave, Chicago, IL 60625 ROCKNROLLVINTAGE.COM
 
     (773) 878-8616
 
@@ -94,9 +88,7 @@ domestic:
     ### 30TH STREET GUITARS
 
 
-    234 W 27th St
-
-    New York, NY
+    234 W 27th St New York, NY
 
     (212) 868-2660
 
@@ -106,9 +98,7 @@ domestic:
     ### RUDY’S MUSIC
 
 
-    461 Broome St.
-
-    NY, NY 10013
+    461 Broome St. NY, NY 10013
 
     212.625.2557
 
@@ -118,9 +108,7 @@ domestic:
     ### VISION GUITAR
 
 
-    http://visionguitar.com
-
-    6300 San Ignacio Ave f,
+    http://visionguitar.com 6300 San Ignacio Ave f,
 
     San Jose, CA 95119
 
@@ -130,9 +118,7 @@ domestic:
     ### MUSICIAN’S FRIEND
 
 
-    Musician’s Friend
-
-    https://www.musiciansfriend.com/
+    Musician’s Friend https://www.musiciansfriend.com/
 
     (800) 449-9128
 
@@ -140,9 +126,7 @@ domestic:
     ### B’S MUSIC SHOP
 
 
-    613 MISSION ST.
-
-    Mount Pleasant , MI
+    613 MISSION ST. Mount Pleasant , MI
 
     (989) 773-0777
 
@@ -152,9 +136,7 @@ domestic:
     ### GUITAR CENTER
 
 
-    Guitar Center
-
-    https://www.guitarcenter.com/
+    Guitar Center https://www.guitarcenter.com/
 
     (866) 498-7882
 
@@ -162,17 +144,13 @@ domestic:
     ### COAST SONIC PEDAL PROVIDERS
 
 
-    Encinitas, CA
-
-    HTTP://COASTSONIC.COM/
+    Encinitas, CA HTTP://COASTSONIC.COM/
 
 
     ### SAM ASH – NORTH CHICAGO
 
 
-    Sam Ash Buffalo Grove store #18
-
-    1305 West Dundee Rd
+    Sam Ash Buffalo Grove store #18 1305 West Dundee Rd
 
     Plaza Verde Shopping Center
 
@@ -184,9 +162,7 @@ domestic:
     ### SAM ASH NEW YORK
 
 
-    333 W 34th S
-
-    New York, NY 10001
+    333 W 34th S New York, NY 10001
 
     (212) 719-2299
 
@@ -194,9 +170,7 @@ domestic:
     ### SAM ASH INDIANAPOLIS
 
 
-    8284 Center Run Dr
-
-    Indianapolis, IN 46250
+    8284 Center Run Dr Indianapolis, IN 46250
 
     800.472.6274
 international:
