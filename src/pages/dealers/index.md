@@ -76,7 +76,7 @@ domestic:
     ### 30TH STREET GUITARS
 
 
-    234 W 27th St New York, NY (212) 868-2660 HTTP://WWW.30THSTREETGUITARS.COM
+    234 W 27th St New York, NY (212) 868-2660 <HTTP://WWW.30THSTREETGUITARS.COM>
 
 
     ### RUDY’S MUSIC
@@ -88,32 +88,50 @@ domestic:
     ### VISION GUITAR
 
 
-    http://visionguitar.com 6300 San Ignacio Ave f, San Jose, CA 95119 (888)
-    885-0710
+    <http://visionguitar.com>
+
+     6300 San Ignacio Ave f, San Jose, CA 95119 
+
+    (888) 885-0710
 
 
     ### MUSICIAN’S FRIEND
 
 
-    Musician’s Friend https://www.musiciansfriend.com/ (800) 449-9128
+    Musician’s Friend
 
+     https://www.musiciansfriend.com/
+
+     (800) 449-9128
 
     ### B’S MUSIC SHOP
 
 
-    613 MISSION ST. Mount Pleasant , MI (989) 773-0777 bsmusicshop.com
+    613 MISSION ST. Mount Pleasant , MI 
+
+
+    (989) 773-0777
+
+
+    [ BSMUSICSHOP.com](www.bsmusicshop.com)
 
 
     ### GUITAR CENTER
 
 
-    Guitar Center https://www.guitarcenter.com/ (866) 498-7882
+    Guitar Center 
+
+
+    https://www.guitarcenter.com/ 
+
+
+    (866) 498-7882
 
 
     ### COAST SONIC PEDAL PROVIDERS
 
 
-    Encinitas, CA HTTP://COASTSONIC.COM/
+    Encinitas, CA   <HTTP://COASTSONIC.COM/>
 
 
     ### SAM ASH – NORTH CHICAGO
