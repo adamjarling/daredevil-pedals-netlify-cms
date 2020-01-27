@@ -32,9 +32,7 @@ domestic:
 
 
     Firehouse Guitars / Geartree.com 2225 Pine Ridge Dr. Jenison, MI 49428 Phone
-    616 662 8160 x222
-
-    <https://www.geartree.com/>
+    616 662 8160 x222 <https://www.geartree.com/>
 
 
     ### CHICAGO MUSIC EXCHANGE
@@ -44,7 +42,6 @@ domestic:
     info@chicagomusicexchange.com
 
 
-
     [chicagomusicexchange.com/collections/daredevil/effects](http://chicagomusicexchange.com/collections/daredevil/effects)
 
 
@@ -52,9 +49,7 @@ domestic:
 
 
     2649 N. Decatur Rd Decatur, GA 30033 (404) 254-0190
-    [](www.bighouseguitars.com)
-
-    bighouseguitars@gmail.com
+    [](www.bighouseguitars.com) bighouseguitars@gmail.com
 
 
     [www.bighouseguitars.com](www.bighouseguitars.com)
@@ -82,8 +77,9 @@ domestic:
     ### RUDY’S MUSIC
 
 
-    461 Broome St. NY, NY 10013 212.625.2557 www.RUDYSMUSIC.com
+    461 Broome St. NY, NY 10013 212.625.2557
 
+     [www.RUDYSMUSIC.com](www.RUDYSMUSIC.com)
 
     ### VISION GUITAR
 
@@ -138,9 +134,7 @@ domestic:
 
 
     Sam Ash Buffalo Grove store #18 1305 West Dundee Rd Plaza Verde Shopping
-    Center Buffalo Grove, IL 60089
-
-    847-253-3151
+    Center Buffalo Grove, IL 60089 847-253-3151
 
 
     ### SAM ASH NEW YORK
