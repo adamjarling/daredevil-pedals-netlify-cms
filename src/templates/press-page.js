@@ -21,11 +21,14 @@ export const PressPageTemplate = ({
         {items.length > 0 &&
           items.map(item => (
             <div className="card">
-              <div className="image">
-                <a href={item.url} target="_blank" rel="noopener noreferrer">
-                  <Img fluid={item.image.childImageSharp.fluid} />
-                </a>
-              </div>
+              {item.image && (
+                <div className="image">
+                  <a href={item.url} target="_blank" rel="noopener noreferrer">
+                    <Img fluid={item.image.childImageSharp.fluid} />
+                  </a>
+                </div>
+              )}
+
               <div className="content">
                 <div className="header">{item.publication}</div>
                 <div className="meta">
