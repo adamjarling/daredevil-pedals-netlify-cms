@@ -28,9 +28,9 @@ media:
 tags:
   - silver solo
 ---
-NEW ARTWORK DESIGN for 2019
 
-the Silver Solo....It's not like all the others... This boost has a tighter low end, sharper bite, and more output than the usual germanium Rangemaster clones. The Silver Solo is a redesigned version that uses Silicon transistors and a tone blending option to achieve it's sweet spot.
+
+the SILVER SOLO....It's not like all the others... This boost has a tighter low end, sharper bite, and more output than the usual germanium Rangemaster clones. The Silver Solo is a redesigned version that uses Silicon transistors and a tone blending option to achieve it's sweet spot.
 
 It accentuates dynamics and texture while increasing volume, pushing your tone through the mix when you need that extra cut.
 
