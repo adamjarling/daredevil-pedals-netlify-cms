@@ -4,7 +4,7 @@ title: Supernova Fuzz
 description: 'Super biting, gritty, vintage type fuzz all hand wired in Chicago.'
 price: 179 USD
 payPal: "\n<tr><td><input type=\"hidden\" name=\"on0\" value=\"Add to cart\">Add to cart</td></tr><tr><td><select name=\"os0\">\n\t<option value=\"Supernova\">Supernova $179.00 USD</option>\n</select> </td></tr>\n</table>\n<input type=\"hidden\" name=\"currency_code\" value=\"USD\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n"
-pedalimage: /img/snav2-1-web.jpg
+pedalimage: /img/snav3.jpg
 media:
   - mediaItem: >-
       <iframe width="560" height="315"
