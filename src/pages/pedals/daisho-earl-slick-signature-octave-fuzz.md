@@ -4,7 +4,7 @@ title: DAISHO  Earl Slick Signature Octave Fuzz
 description: "NEW! \_A Daredevil collaboration with legendary guitarist Earl Slick. Designed for maximum dynamic fuzz and octave control, this 2 in 1 features independent circuits with an optional noise gate control to keep things tight in between playing."
 price: 199 USD
 payPal: "<form target=\"paypal\" action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"MH338XPCP4XHL\">\n<table>\n<tr><td><input type=\"hidden\" name=\"on0\" value=\"Daisho\">Daisho</td></tr><tr><td><select name=\"os0\">\n\t<option value=\"Add to Cart\">Add to Cart $199.00 USD</option>\n</select> </td></tr>\n</table>\n<input type=\"hidden\" name=\"currency_code\" value=\"USD\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\n"
-pedalimage: /img/slickpress1web-web.jpg
+pedalimage: /img/slick2020.jpg
 media:
   - mediaItem: >-
       <iframe width="560" height="315"
