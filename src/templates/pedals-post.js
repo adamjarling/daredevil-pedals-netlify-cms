@@ -55,15 +55,17 @@ export const PedalsPostTemplate = ({
         </div>
       </div>
 
-      <div className="ui basic segment">
-        <div className="pedal-video-wrapper cent">
-          {media.map((item, i) => (
-            <HTMLContent key={i} content={item.mediaItem} />
-            // Note: These classes added to above element will make videos
-            // 100% width: "pedal-video embed-container"
-          ))}
+      {media && media.length > 0 && (
+        <div className="ui basic segment">
+          <div className="pedal-video-wrapper cent">
+            {media.map((item, i) => (
+              <HTMLContent key={i} content={item.mediaItem} />
+              // Note: These classes added to above element will make videos
+              // 100% width: "pedal-video embed-container"
+            ))}
+          </div>
         </div>
-      </div>
+      )}
     </section>
   );
 };

@@ -26,14 +26,30 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       # - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Price", name: "price", widget: "string" }
-      - { label: "PayPal Embed Code", name: "payPal", widget: "text" }
-      - { label: "Pedal Image", name: "pedalimage", widget: "image" }
+      - {
+          label: "Description",
+          name: "description",
+          widget: "text",
+          required: false,
+        }
+      - { label: "Price", name: "price", widget: "string", required: false }
+      - {
+          label: "PayPal Embed Code",
+          name: "payPal",
+          widget: "text",
+          required: false,
+        }
+      - {
+          label: "Pedal Image",
+          name: "pedalimage",
+          widget: "image",
+          required: false,
+        }
       - {
           label: "Media",
           name: "media",
           widget: list,
+          required: false,
           fields: [{ label: Media Item, name: mediaItem, widget: text }],
         }
       - { label: "Body", name: "body", widget: "markdown" }
@@ -53,11 +69,17 @@ collections:
               default: "index-page",
             }
           - { label: Title, name: title, widget: string }
-          - { label: YouTube Id, name: youTubeId, widget: string }
+          - {
+              label: YouTube Id,
+              name: youTubeId,
+              widget: string,
+              required: false,
+            }
           - {
               label: Mainpitch,
               name: mainpitch,
               widget: object,
+              required: false,
               fields:
                 [
                   { label: Title, name: title, widget: string },
