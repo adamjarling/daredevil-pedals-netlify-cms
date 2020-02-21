@@ -6,7 +6,7 @@ description: >-
   coupled with the classic fixed wah tones of the Atomic Cock.
 price: 199 USD
 payPal: "<form target=\"paypal\" action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"2WCM6SMKH3CWC\">\n<table>\n<tr><td><input type=\"hidden\" name=\"on0\" value=\"Cocked and Fearless\">Cocked and Fearless</td></tr><tr><td><select name=\"os0\">\n\t<option value=\"Buy now\">Buy now $199.00 USD</option>\n</select> </td></tr>\n</table>\n<input type=\"hidden\" name=\"currency_code\" value=\"USD\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\n"
-pedalimage: /img/fearcock1-web.jpg
+pedalimage: /img/cf2020.jpg
 media:
   - mediaItem: >-
       <iframe width="560" height="315"
