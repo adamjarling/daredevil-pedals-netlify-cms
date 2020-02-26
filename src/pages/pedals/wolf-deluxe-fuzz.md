@@ -5,8 +5,8 @@ description: >-
   An original design Fuzz that is very warm, vintage, and has loads of sustain.
   The unique aspect of the Wolf is it’s tonal character, slightly boxy, like a
   small vintage amp turned up all the way.
-price: 169 USD
-payPal: "<form target=\"paypal\" action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"GZM4GG952EQQJ\">\n<table>\n<tr><td><input type=\"hidden\" name=\"on0\" value=\"Buy Now\">Buy Now</td></tr><tr><td><select name=\"os0\">\n\t<option value=\"Wolf Deluxe\">Wolf Deluxe $169.00 USD</option>\n</select> </td></tr>\n</table>\n<input type=\"hidden\" name=\"currency_code\" value=\"USD\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\n"
+price: 149 USD
+payPal: "<form target=\"paypal\" action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"GZM4GG952EQQJ\">\n<table>\n<tr><td><input type=\"hidden\" name=\"on0\" value=\"Buy Now\">Buy Now</td></tr><tr><td><select name=\"os0\">\n\t<option value=\"Wolf Deluxe\">Wolf Deluxe $149.00 USD</option>\n</select> </td></tr>\n</table>\n<input type=\"hidden\" name=\"currency_code\" value=\"USD\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\n"
 pedalimage: /img/wolf2018-web.jpg
 media:
   - mediaItem: >-
