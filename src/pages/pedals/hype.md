@@ -18,7 +18,7 @@ After 7 years of intense research & development, Daredevil is proud to launch th
 
 This has nothing to do with "clean transparent boost" or any cork sniffing metaphors you may have heard. The HYPE is big and nasty in the best possible way. A boost that stacks and interacts great with other pedals…and built like a tank.
 
-Best of all is the low street price of only $89... right on par with the mass produced brands, but who wants to play a pedal built overseas by robots when you can get the boutique quality, real deal, all hand made in Chicago? Exactly.
+Best of all is the low street price of only $89... right on par with the mass produced brands, but who wants to play a pedal built overseas by robots when you can get the boutique quality real deal, all hand made in Chicago? Exactly.
 
 So you can buy this for the high quality, or you can buy it because it sounds great, or just buy it because everyone else has one and that means you should too…After all… it's HYPE.
 
