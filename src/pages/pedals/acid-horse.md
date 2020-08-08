@@ -11,6 +11,11 @@ media:
       src="https://www.youtube.com/embed/4yt38MZy5h4?start=87" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
+  - mediaItem: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/4yt38MZy5h4?start=350" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
 tags:
   - acid horse
 ---
