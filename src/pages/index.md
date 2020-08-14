@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Hand Made Quality Effects Pedals Built in Chicago
-youTubeId: E_8PUjr6tSs
+youTubeId: 4yt38MZy5h4?t=75
 mainpitch:
   description: >
     Daredevil Pedals are hand built by Johnny Wator in Chicago,
