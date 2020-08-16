@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../img/daredevil-pedals.jpg";
+import logo from "../img/StickerA2020.jpg";
 import { Link } from "gatsby";
 import NavbarNew from "../components/NavbarNew";
 

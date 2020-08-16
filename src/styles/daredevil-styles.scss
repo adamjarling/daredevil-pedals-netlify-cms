@@ -5,3 +5,13 @@
 .card {
   overflow-wrap: break-word;
 }
+
+.logo-wrapper {
+  img {
+    max-width: 400px;
+
+    @media screen and (max-width: 640px) {
+      width: 100%;
+    }
+  }
+}
