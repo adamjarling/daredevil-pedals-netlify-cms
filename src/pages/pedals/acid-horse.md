@@ -19,7 +19,9 @@ media:
 tags:
   - acid horse
 ---
+PRE-SALE!!  These will ship around Sept 16th.  
 
+Limited quantity.  Secure one while you can. If this listing is active, they are still available!! 
 
 Howdy! The ACID HORSE is a limited run, hand built, 2 in 1 Overdrive & Boost. Originating as a custom request design, this evolved into the pedal you see today.
 
