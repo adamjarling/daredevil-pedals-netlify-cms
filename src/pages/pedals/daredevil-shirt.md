@@ -17,6 +17,8 @@ media:
 tags:
   - shirt t
 ---
+![](/img/shirts2020.2.jpg)
+
 ![](/img/hats2020.jpg)
 
 ![](/img/shirt2020.3.jpg)
