@@ -12,6 +12,11 @@ pedalimage: /img/silver2021.jpg
 media:
   - mediaItem: >-
       <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/RB2JkEPGFkM" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe>
+  - mediaItem: >-
+      <iframe width="560" height="315"
       src="https://www.youtube.com/embed/-LvNgT4RlIc" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
