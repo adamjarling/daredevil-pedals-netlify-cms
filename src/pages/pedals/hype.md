@@ -8,9 +8,9 @@ pedalimage: /img/hype1.jpg
 media:
   - mediaItem: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/7j3V1l5WtgE" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      src="https://www.youtube.com/embed/X0XFcHqcPeI" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe>
 tags:
   - pedal
 ---
