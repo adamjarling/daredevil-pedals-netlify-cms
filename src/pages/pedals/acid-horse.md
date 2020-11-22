@@ -20,7 +20,9 @@ media:
 tags:
   - acid horse
 ---
- Limited quantity.  Secure one while you can. If this listing is active, they are still available!! 
+"Dude, the Acid Horse is fucking bad ass. Just had band practice and everyone commented on the sound. We even fucked with the knobs and couldn’t find a bad sound. Rock and fucking roll on it man. " - David P.  ️
+
+Limited quantity.  Secure one while you can. If this listing is active, they are still available!! 
 
 Howdy! The ACID HORSE is a limited run, hand built, 2 in 1 Overdrive & Boost. Originating as a custom request design, this evolved into the pedal you see today.
 
