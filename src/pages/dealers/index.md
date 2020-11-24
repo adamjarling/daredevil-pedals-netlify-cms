@@ -151,71 +151,97 @@ domestic:
 
     8284 Center Run Dr Indianapolis, IN 46250 800.472.6274
 international:
-  content: |-
+  content: >-
     ## Japan
+
 
     ### LEP International Co
 
+
     http://www.lep-international.jp/
 
-    12-19 Zaimoku-cho, Hanamaki, Iwate 025-0098 JAPAN
-    TEL:0198-23-6600
+
+    12-19 Zaimoku-cho, Hanamaki, Iwate 025-0098 JAPAN TEL:0198-23-6600
     FAX:0198-29-4244
+
 
     ## Canada
 
+
     ### ELECTRIC MOJO GUITARS
 
-    80 Gaston-Dumoulin, #104 Blainville, Quebec
-    J7C 5P5, Canada
-    438 393 4896
+
+    80 Gaston-Dumoulin, #104 Blainville, Quebec J7C 5P5, Canada 438 393 4896
+
     info@electricmojoguitars.com
+
     electricmojoguitars.com
+
 
     ## Germany
 
+
     ### Shop2rock GbR
 
-    Tel: +49 3981 236900 info@shop2rock.de
-    Zierker Str. 9
-    D-17235 Neustrelitz
+
+    Tel: +49 3981 236900 info@shop2rock.de Zierker Str. 9 D-17235 Neustrelitz
+
     https://www.shop2rock.de/
+
 
     ### Thomann GmbH
 
-    Tel: +49 9546 922366 info@thomann.de
-    Hans-Thomann-Straße 1
-    D-96138 Burgebrach
+
+    Tel: +49 9546 922366 info@thomann.de Hans-Thomann-Straße 1 D-96138
+    Burgebrach
+
     https://www.thomann.de
+
 
     ### Zoundhouse Dresden
 
-    Tel: +49 351 40768110 info@zoundhouse.de
-    Meschwitzstraße 6
-    D-01099 Dresden
+
+    Tel: +49 351 40768110 info@zoundhouse.de Meschwitzstraße 6 D-01099 Dresden
+
     http://www.zoundhouse.de
+
 
     ### Projektil Records UG
 
-    Tel: +49 341 52902741 info@rock-gear.de
-    Brünner Straße 10
-    D-04209 Leipzig
+
+    Tel: +49 341 52902741 info@rock-gear.de Brünner Straße 10 D-04209 Leipzig
+
     http://www.rock-gear.de
+
 
     ### Gitarren & Mehr
 
-    43 650 8882505 www.gitarrenladen.com
-    Katzenberg 57
-    A-4982 Kirchdorf am Inn
+
+    43 650 8882505 www.gitarrenladen.com Katzenberg 57 A-4982 Kirchdorf am Inn
+
     http://www.gitarrenladen.com
+
+
+    ### **CHILE**
+
+
+    #### Tarara
+
+
+    ###### contacto@tarara.cl
+
+
+    ###### av. apoquindo 4900, Local 34 . Omnium
+
 
     ## Swiss
 
+
     ### House of Sound AG
 
-    Tel: +41 61 2839540 info@houseofsound.ch
-    Nauenstr. 63
-    CH-4052 Basel
+
+    Tel: +41 61 2839540 info@houseofsound.ch Nauenstr. 63 CH-4052 Basel
+
     http://www.houseofsound.ch
 ---
 For all sales and pricing inquiries within the United States –
