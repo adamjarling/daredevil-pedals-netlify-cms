@@ -2,7 +2,7 @@
 templateKey: pedals-post
 title: ACID HORSE
 description: 2 in 1 Overdrive and Germanium Boost
-price: '189 usd '
+price: 189 USD
 payPal: "\n<form target=\"paypal\" action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"JRFM6FP43BWR4\">\n<table>\n<tr><td><input type=\"hidden\" name=\"on0\" value=\"Acid Horse\">Acid Horse</td></tr><tr><td><select name=\"os0\">\n\t<option value=\"Add to Cart\">Add to Cart $189.00 USD</option>\n</select> </td></tr>\n</table>\n<input type=\"hidden\" name=\"currency_code\" value=\"USD\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n"
 pedalimage: /img/ah1.jpg
 media:
