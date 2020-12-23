@@ -185,16 +185,16 @@ international:
     DERRINGER'S MUSIC - Forestville, SA  
 
 
-    +61 8 8731 1884   
-    <https://derringers.com.au/derringers-music-forestville-store>
+    +61 8 8731 1884  
 
+      <https://derringers.com.au/derringers-music-forestville-store>
 
     DERRINGER'S MUSIC CITY STORE - Adelaide, SA  
 
 
     +61 8 8232 0855  
-    <https://derringers.com.au/derringers-music-adelaide-city-store>
 
+     <https://derringers.com.au/derringers-music-adelaide-city-store>
 
     #### Victoria 
 
@@ -203,14 +203,15 @@ international:
 
 
     +61 3 9799 5400 
-    [https://www.cranbournemusic.com.au]([https://www.cranbournemusic.com.au](https://cranbournemusic.com.au))
 
+     [https://www.cranbournemusic.com.au]([https://www.cranbournemusic.com.au](https://cranbournemusic.com.au))
 
     CRANBOURNE MUSIC - CITY STORE Melbourne
 
 
-    +61 3 9654 5115   <https://www.cranbournemusic.com.au>
+    +61 3 9654 5115 
 
+      <https://www.cranbournemusic.com.au>
 
     #### New South Wales
 
@@ -227,15 +228,16 @@ international:
     GUITAR BROTHERS - Red Hill QLD
 
 
-    +61 7 3367 3558   <https://www.guitarbrothers.com.au>
+    +61 7 3367 3558 
 
+      <https://www.guitarbrothers.com.au>
 
     MOOLOOLABA MUSIC - Minyama, QLD
 
 
-    +61 7 5444 8889  [
-    https://www.mooloolabmusic.com.au](https://www.mooloolabmusic.com.au)
+    +61 7 5444 8889 
 
+     [ https://www.mooloolabmusic.com.au](https://www.mooloolabmusic.com.au)
 
 
 
@@ -248,10 +250,9 @@ international:
     www.EUROPEANMI.COM
 
 
-    Pague, Czech Rep.
-
-
     [glenn@europeanmi.com](mailto:glenn@europeanmi.com)
+
+
 
 
     ## Japan
@@ -309,22 +310,14 @@ For all sales and pricing inquiries within the United States – Email Daredevil
 
 OVERSEAS DISTRIBUTION -
 
-## AUSTRALIA
-
-### EMI Distribution
+## AUSTRALIA - EMI Distribution
 
 www.ELECTRICMI.COM.AU
 
 [glenn@electricmi.com.au](mailto:glenn@electricmi.com.au) 
 
-
-
-## EUROPE & UK
-
-### EMI Distribution
+## EUROPE & UK - EMI Distribution
 
 www.EUROPEANMI.COM
-
-Pague, Czech Rep.
 
 [glenn@europeanmi.com](mailto:glenn@europeanmi.com)
