@@ -253,8 +253,6 @@ international:
     [glenn@europeanmi.com](mailto:glenn@europeanmi.com)
 
 
-
-
     ## Japan
 
 
@@ -268,6 +266,8 @@ international:
     FAX:0198-29-4244
 
 
+
+
     ## Canada
 
 
@@ -278,6 +278,8 @@ international:
     info@electricmojoguitars.com
 
     electricmojoguitars.com
+
+
 
 
     ## **CHILE**
@@ -293,16 +295,6 @@ international:
 
 
     Omnium
-
-
-    ## Swiss
-
-
-    ## House of Sound AG
-
-
-    Tel: +41 61 2839540 info@houseofsound.ch Nauenstr. 63 CH-4052 Basel
-    http://www.houseofsound.ch
 ---
 For all sales and pricing inquiries within the United States – Email Daredevilpedals@gmail.com
 
