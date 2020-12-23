@@ -152,6 +152,108 @@ domestic:
     8284 Center Run Dr Indianapolis, IN 46250 800.472.6274
 international:
   content: >-
+    ## AUSTRALIA
+
+
+    ### EMI Distribution
+
+
+    www.ELECTRICMI.COM.AU
+
+
+    [glenn@electricmi.com.au](mailto:glenn@electricmi.com.au) 
+
+
+    #### Western Australia
+
+
+    the ROCK INN
+
+
+    762 Beaufort st. Mount Lawley, WA 6050 
+
+
+    +61 8 9371 8822
+
+
+    <https://therockinn.com>
+
+
+    #### South Australia
+
+
+    DERRINGER'S MUSIC - Forestville, SA  
+
+
+    +61 8 8731 1884   
+    <https://derringers.com.au/derringers-music-forestville-store>
+
+
+    DERRINGER'S MUSIC CITY STORE - Adelaide, SA  
+
+
+    +61 8 8232 0855  
+    <https://derringers.com.au/derringers-music-adelaide-city-store>
+
+
+    #### Victoria 
+
+
+    CRANBOURNE MUSIC - LYNBROOK 
+
+
+    +61 3 9799 5400 
+    [https://www.cranbournemusic.com.au]([https://www.cranbournemusic.com.au](https://cranbournemusic.com.au))
+
+
+    CRANBOURNE MUSIC - CITY STORE Melbourne
+
+
+    +61 3 9654 5115   <https://www.cranbournemusic.com.au>
+
+
+    #### New South Wales
+
+
+    DW MUSIC - Fyshwick, ACT
+
+
+    +61 2 6163 3600 [ https://www.dwmusic.com.au](https://www.dwmusic.com.au)
+
+
+    #### Queensland
+
+
+    GUITAR BROTHERS - Red Hill QLD
+
+
+    +61 7 3367 3558   <https://www.guitarbrothers.com.au>
+
+
+    MOOLOOLABA MUSIC - Minyama, QLD
+
+
+    +61 7 5444 8889  [
+    https://www.mooloolabmusic.com.au](https://www.mooloolabmusic.com.au)
+
+
+
+
+    ## EUROPE & UK
+
+
+    ### EMI Distribution
+
+
+    www.EUROPEANMI.COM
+
+
+    Pague, Czech Rep.
+
+
+    [glenn@europeanmi.com](mailto:glenn@europeanmi.com)
+
+
     ## Japan
 
 
@@ -172,78 +274,57 @@ international:
 
 
     80 Gaston-Dumoulin, #104 Blainville, Quebec J7C 5P5, Canada 438 393 4896
-
     info@electricmojoguitars.com
 
     electricmojoguitars.com
 
 
-    ## Germany
+    ## **CHILE**
 
 
-    ### Shop2rock GbR
+    ### TARARA
 
 
-    Tel: +49 3981 236900 info@shop2rock.de Zierker Str. 9 D-17235 Neustrelitz
-
-    https://www.shop2rock.de/
+    contacto@tarara.cl
 
 
-    ### Thomann GmbH
+    av. apoquindo 4900, Local 34. 
 
 
-    Tel: +49 9546 922366 info@thomann.de Hans-Thomann-Straße 1 D-96138
-    Burgebrach
-
-    https://www.thomann.de
-
-
-    ### Zoundhouse Dresden
-
-
-    Tel: +49 351 40768110 info@zoundhouse.de Meschwitzstraße 6 D-01099 Dresden
-
-    http://www.zoundhouse.de
-
-
-    ### Projektil Records UG
-
-
-    Tel: +49 341 52902741 info@rock-gear.de Brünner Straße 10 D-04209 Leipzig
-
-    http://www.rock-gear.de
-
-
-    ### Gitarren & Mehr
-
-
-    43 650 8882505 www.gitarrenladen.com Katzenberg 57 A-4982 Kirchdorf am Inn
-
-    http://www.gitarrenladen.com
-
-
-    ### **CHILE**
-
-
-    #### Tarara
-
-
-    ###### contacto@tarara.cl
-
-
-    ###### av. apoquindo 4900, Local 34 . Omnium
+    Omnium
 
 
     ## Swiss
 
 
-    ### House of Sound AG
+    ## House of Sound AG
 
 
     Tel: +41 61 2839540 info@houseofsound.ch Nauenstr. 63 CH-4052 Basel
-
     http://www.houseofsound.ch
 ---
-For all sales and pricing inquiries within the United States –
+For all sales and pricing inquiries within the United States – Email Daredevilpedals@gmail.com
 
-Email Daredevilpedals@gmail.com
+
+
+Overseas Distribution -
+
+## AUSTRALIA
+
+### EMI Distribution
+
+www.ELECTRICMI.COM.AU
+
+[glenn@electricmi.com.au](mailto:glenn@electricmi.com.au) 
+
+
+
+## EUROPE & UK
+
+### EMI Distribution
+
+www.EUROPEANMI.COM
+
+Pague, Czech Rep.
+
+[glenn@europeanmi.com](mailto:glenn@europeanmi.com)
