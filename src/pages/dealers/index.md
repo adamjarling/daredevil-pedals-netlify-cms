@@ -196,7 +196,7 @@ international:
 
      <https://derringers.com.au/derringers-music-adelaide-city-store>
 
-    #### Victoria 
+    #### Victoria
 
 
     CRANBOURNE MUSIC - LYNBROOK 
@@ -239,8 +239,6 @@ international:
 
      [ https://www.mooloolabmusic.com.au](https://www.mooloolabmusic.com.au)
 
-
-
     ## EUROPE & UK
 
 
@@ -266,8 +264,6 @@ international:
     FAX:0198-29-4244
 
 
-
-
     ## Canada
 
 
@@ -275,11 +271,7 @@ international:
 
 
     80 Gaston-Dumoulin, #104 Blainville, Quebec J7C 5P5, Canada 438 393 4896
-    info@electricmojoguitars.com
-
-    electricmojoguitars.com
-
-
+    info@electricmojoguitars.com electricmojoguitars.com
 
 
     ## **CHILE**
@@ -296,9 +288,7 @@ international:
 
     Omnium
 ---
-For all sales and pricing inquiries within the United States – Email Daredevilpedals@gmail.com
-
-
+For all sales inquiries within the UNITED STATES – Email Daredevilpedals@gmail.com
 
 OVERSEAS DISTRIBUTION -
 
