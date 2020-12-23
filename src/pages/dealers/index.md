@@ -307,7 +307,7 @@ For all sales and pricing inquiries within the United States – Email Daredevil
 
 
 
-Overseas Distribution -
+OVERSEAS DISTRIBUTION -
 
 ## AUSTRALIA
 
