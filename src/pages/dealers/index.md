@@ -3,6 +3,21 @@ templateKey: dealers-page
 title: Dealers
 domestic:
   content: >-
+    ### Allen Eden Inc
+
+
+    12328 Valley Blvd. STE B
+
+
+    El Monte, Ca 91732
+
+
+    [(626)258-0009](tel:%28626%29258-0009)
+
+
+    [www.AEGuitars.com]([www.AEGuitars.com](http://www.allenedenguitars.com/))
+
+
     ### AMP SHOP / BASS EXCHANGE HOLLYWOOD
 
 
