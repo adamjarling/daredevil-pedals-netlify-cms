@@ -33,8 +33,6 @@ media:
 tags:
   - silver solo
 ---
-
-
 the SILVER SOLO....It's not like all the others... This boost has a tighter low end, sharper bite, and more output than the usual germanium Rangemaster clones. The Silver Solo is a redesigned version that uses Silicon transistors and a tone blending option to achieve it's sweet spot.
 
 It accentuates dynamics and texture while increasing volume, pushing your tone through the mix when you need that extra cut.
@@ -46,3 +44,5 @@ Take a vintage Marshall and push the front end for earlier breakup. Add some bee
 Most notably heard on the first Sabbath album, Clapton’s Bluesbreakers, T.Rex, and Queen albums, this is a secret weapon of great tone. The Silver Solo interacts with your guitar best when used first in the pedal chain. True bypass with a 9V DC jack.
 
 "I swear by this pedal... kicks the shit out of any Rangemaster I've had. Now I gotta get another one! I keep pulling it out of my board at Conan to use outside the show."  - Jimmy Vivino (Fab Faux, Conan Show)
+
+"Finally got it! Thanks for the holiday season hook-up Johnny. My first Daredevil and pedal and having fun with it- wanted to try out a Dallas Rangemaster style treble booster and this was the one. It rocks!"  - Jamie K
