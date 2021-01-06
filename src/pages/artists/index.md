@@ -38,5 +38,7 @@ items:
     text: 'http://www.dorylobel.com'
     title: Dory Lobel - the Voice
     url: 'http://www.dorylobel.com'
+  - image: /img/davenavarro1.jpg
+    title: Dave Navarro & Billy Morrison (BIlly Idol)
 ---
 \>
