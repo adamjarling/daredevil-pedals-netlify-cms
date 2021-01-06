@@ -4,7 +4,7 @@ title: Atomic Cock Wah
 description: "THE ORIGINAL! Get all the great\_cocked wah sounds without the wah pedal. No more trying to engage and find the sweet spot during a solo. Just dial it in, crank up the gain, and you're ready to lay down some\_sweet, squawky tone."
 price: 179 USD
 payPal: "<form target=\"paypal\" action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"M7G47E8RDMV36\">\n<table>\n<tr><td><input type=\"hidden\" name=\"on0\" value=\"Buy Now\">Buy Now</td></tr><tr><td><select name=\"os0\">\n\t<option value=\"Atomic Cock\">Atomic Cock $179.00 USD</option>\n</select> </td></tr>\n</table>\n<input type=\"hidden\" name=\"currency_code\" value=\"USD\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>"
-pedalimage: /img/ac2020.jpg
+pedalimage: /img/ac2021.jpg
 media:
   - mediaItem: >-
       <iframe width="560" height="315"
