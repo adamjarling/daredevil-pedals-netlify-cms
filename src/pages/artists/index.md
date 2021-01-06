@@ -42,5 +42,7 @@ items:
     text: 'http://www.dorylobel.com'
     title: Dory Lobel - the Voice
     url: 'http://www.dorylobel.com'
+  - image: /img/dc1.png
+    title: 'David Catching - EODM, Rancho de la Luna'
 ---
 \>
