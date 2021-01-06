@@ -38,7 +38,7 @@ items:
     text: 'http://www.highonfire.net'
     title: Jeff Matz – High On Fire
     url: 'http://www.highonfire.net'
-  - image: /img/dory.jpeg
+  - image: /img/dory1.jpeg
     text: 'http://www.dorylobel.com'
     title: Dory Lobel - the Voice
     url: 'http://www.dorylobel.com'
