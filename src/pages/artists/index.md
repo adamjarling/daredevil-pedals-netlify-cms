@@ -40,5 +40,7 @@ items:
     text: 'http://www.dorylobel.com'
     title: Dory Lobel - the Voice
     url: 'http://www.dorylobel.com'
+  - image: /img/adrianbelew.jpg
+    title: 'Adrian Belew - David Bowie, Zappa, King Crimson'
 ---
 \>
