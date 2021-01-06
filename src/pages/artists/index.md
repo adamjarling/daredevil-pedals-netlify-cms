@@ -16,7 +16,7 @@ items:
     url: 'http://www.highonfire.net'
   - image: /img/tim1.png
     text: Tim Lefebvre – Tedeschi Trucks band
-    title: Tim Lefebvre – Tedeschi Trucks band
+    title: 'Tim Lefebvre – Tedeschi Trucks band, David Bowie'
     url: 'http://www.timlefebvremusic.com'
   - image: /img/jimmy1.jpg
     text: Jimmy Vivino – Basic Cable Band / Fab Faux
