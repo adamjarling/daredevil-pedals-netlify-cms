@@ -2,6 +2,8 @@
 templateKey: artists-page
 title: Artists
 items:
+  - image: /img/davenavarro1.jpg
+    title: Dave Navarro & Billy Morrison (BIlly Idol)
   - image: /img/earl-slick.jpg
     text: 'Earl Slick – David Bowie, John Lennon, etc.'
     title: 'Earl Slick – David Bowie, John Lennon, etc.'
@@ -38,7 +40,5 @@ items:
     text: 'http://www.dorylobel.com'
     title: Dory Lobel - the Voice
     url: 'http://www.dorylobel.com'
-  - image: /img/davenavarro1.jpg
-    title: Dave Navarro & Billy Morrison (BIlly Idol)
 ---
 \>
