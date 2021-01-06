@@ -8,6 +8,12 @@ items:
     text: 'Earl Slick – David Bowie, John Lennon, etc.'
     title: 'Earl Slick – David Bowie, John Lennon, etc.'
     url: 'https://www.facebook.com/EarlSlickOfficial'
+  - image: /img/adrianbelew.jpg
+    title: 'Adrian Belew - David Bowie, Zappa, King Crimson'
+  - image: /img/matt-pike.jpg
+    text: Matt Pike – High On Fire / Sleep
+    title: Matt Pike – High On Fire / Sleep
+    url: 'http://www.highonfire.net'
   - image: /img/tim1.png
     text: Tim Lefebvre – Tedeschi Trucks band
     title: Tim Lefebvre – Tedeschi Trucks band
@@ -20,10 +26,6 @@ items:
     text: Brad Whitford – Aerosmith / Whitford St. Holmes
     title: Brad Whitford – Aerosmith / Whitford St. Holmes
     url: 'http://www.aerosmith.com'
-  - image: /img/matt-pike.jpg
-    text: Matt Pike – High On Fire / Sleep
-    title: Matt Pike – High On Fire / Sleep
-    url: 'http://www.highonfire.net'
   - image: /img/tyler1.jpg
     text: Tyler Bryant – Tyler Bryant & the Shakedown
     title: Tyler Bryant – Tyler Bryant & the Shakedown
@@ -40,7 +42,5 @@ items:
     text: 'http://www.dorylobel.com'
     title: Dory Lobel - the Voice
     url: 'http://www.dorylobel.com'
-  - image: /img/adrianbelew.jpg
-    title: 'Adrian Belew - David Bowie, Zappa, King Crimson'
 ---
 \>
