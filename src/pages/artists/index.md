@@ -3,7 +3,7 @@ templateKey: artists-page
 title: Artists
 items:
   - image: /img/davenavarro1.jpg
-    title: Dave Navarro & Billy Morrison (BIlly Idol)
+    title: Dave Navarro & Billy Morrison  (Jane's Addiction & Billy Idol)
   - image: /img/earl-slick.jpg
     text: 'Earl Slick – David Bowie, John Lennon, etc.'
     title: 'Earl Slick – David Bowie, John Lennon, etc.'
