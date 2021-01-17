@@ -266,6 +266,93 @@ international:
     [glenn@europeanmi.com](mailto:glenn@europeanmi.com)
 
 
+    ### UNITED KINGDOM
+
+
+    **Anderton's Music Co**
+
+
+    58 Woodbridge Road, GUILDFORD SURREY GU1 4RF
+
+
+    [www.ANDERTONS.CO.UK ](www.ANDERTONS.CO.UK)   +44 1483 456 777
+
+
+    **GUITAR GUITAR - BIRMINGHAM**
+
+
+    104 Hagley Road Edgbaston, BIRMINGHAM B16 8LT
+
+
+    <https://www.guitarguitar.co.uk>  +44 121 456 1904
+
+
+    **GUITAR GUITAR - EPSOM**
+
+
+    Capitol Square, 6, Church St, EPSOM KT17 4NY
+
+
+    <https://www.guitarguitar.co.uk>   +44 1372 730 578
+
+
+    **GUITAR GUITAR - NEWCASTLE**
+
+
+    27 Grainger Street, NEWCASTLE UPON TYNE NE1 5JE
+
+
+    <https://www.guitarguitar.co.uk>  +44 191 261 1568
+
+
+    **GUITAR GUITAR - GLASGOW**
+
+
+    36 Trongate, GLASGOW G15ES
+
+
+    <https://www.guitarguitar.co.uk>  + 44 141 552 9896
+
+
+    **GUITAR GUITAR - CAMDEN**
+
+
+    16 Delancey Street, CAMDEN LONDON, NW1 7NH
+
+
+    <https://www.guitarguitar.co.uk>    +44 203 675 9100
+
+
+    **GUITAR GUITAR - EDINBURGH**
+
+
+    283-287 St Johns Road, EDINBURGH, EH12 7XF
+
+
+    <https://www.guitarguitar.co.uk>    + 44 131 334 7100
+
+
+    ## DENMARK
+
+
+    **WOODSTOCK GUITARS - ARRHUS**
+
+
+    Odensegade 4, AARHUS C DK-8000
+
+
+    <https://www.woodstockguitars.dk/en/>   +45 86 12 21 89
+
+
+    **WOODSTOCK GUITARS - COPENHAGEN**
+
+
+    Borgergade 14, COPENHAGEN 1300
+
+
+    <https://www.woodstockguitars.dk/en/>    +45 35 14 12 88
+
+
     ## Japan
 
 
